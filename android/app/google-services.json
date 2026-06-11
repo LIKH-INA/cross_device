@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "270556226556",
+    "project_id": "cross-device-clipboard-system",
+    "storage_bucket": "cross-device-clipboard-system.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270556226556:android:4bb1ba70663f35946f4879",
+        "android_client_info": {
+          "package_name": "com.example.cross_device"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKeOPuM6mxUGtiKDvtRjE45ly-29VUh3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270556226556:android:ae1f1629f85e15f86f4879",
+        "android_client_info": {
+          "package_name": "com.example.skipboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKeOPuM6mxUGtiKDvtRjE45ly-29VUh3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
