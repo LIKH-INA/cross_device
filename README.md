@@ -1,17 +1,49 @@
-# cross_device
+# 📋 Cross-Device Clipboard System
 
-A new Flutter project.
+A real-time cross-device clipboard system that enables users to instantly share text, links, and small images between a Flutter mobile application and a web application using Firebase.
 
-## Getting Started
+## 📖 Overview
 
-This project is a starting point for a Flutter application.
+The Cross-Device Clipboard System is designed to simplify data sharing across devices. Instead of sending text or images through email or messaging applications, users can instantly synchronize clipboard content between their mobile phone and computer.
 
-A few resources to get you started if this is your first Flutter project:
+The mobile application is built using Flutter, while the web application is developed using HTML, CSS, and JavaScript. Firebase is used for real-time synchronization, authentication, and cloud storage.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## ✨ Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Real-time clipboard synchronization
+- Instant sharing of text, links, and small images
+- Cross-platform communication between mobile and web
+- Secure authentication using Firebase
+- Cloud-based data synchronization
+- Simple and responsive user interface
+
+## 🛠️ Technologies Used
+
+### Mobile Application
+- Flutter
+
+### Web Application
+- HTML
+- CSS
+- JavaScript
+
+### Backend & Cloud Services
+- Firebase Authentication
+- Firebase Realtime Database
+- Firebase Cloud Storage
+
+## 🚀 Future Enhancements
+
+- Large file transfer support
+- End-to-end encryption
+- Clipboard history
+- Multi-device synchronization
+- Offline synchronization
+
+## 👩‍💻 Author
+
+**Likhina Thomas**
+
+B.Sc. Computer Science
+
+Sri Ramakrishna College of Arts and Science
